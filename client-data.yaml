@@ -1,0 +1,149 @@
+# NOTE: CURRENT_YEAR is also computed automatically (same way as YEARS_COUNT)
+SLUG: american-korean-taekwondo-bergenfield
+SCHOOL_NAME: "American Korean Taekwondo Team Center"
+MARTIAL_ART: Taekwondo
+SITE_URL: https://american-korean-taekwondo-bergenfield.pages.dev
+DOMAIN: american-korean-taekwondo-bergenfield.pages.dev
+# Google Search Console verification. Paste ONLY the content value from Google's
+# "HTML tag" method (google-site-verification=... ) — not the whole <meta> tag.
+# Leave empty until the custom domain actually serves THIS Cloudflare Pages build.
+GSC_VERIFICATION: ""
+CITY: Bergenfield
+STATE: NJ
+ZIP: "07621"
+ADDRESS_LINE_1: "101 Portland Ave."
+PHONE: "(908) 382-0565"
+EMAIL: teamcenterakt@gmail.com
+HOURS: "Mon, Wed–Fri 4:20pm–8:00pm · Sat–Sun 9:00am–1:30pm · Tue Closed"
+YEAR_FOUNDED: ""
+PRIMARY_COLOR: "#C8102E"
+SECONDARY_COLOR: "#1B1F3B"
+LOGO_IMAGE: brand_assets/logo.png
+FACEBOOK_URL: "https://www.facebook.com/p/American-Korean-Taekwondo-Team-Center-61579233785792/"
+INSTAGRAM_URL: ""
+HERO_IMAGE: images/hero/hero.jpg
+HERO_HEADLINE: "Home of National Champions."
+HERO_SUBHEADLINE: "Bergenfield's Kukkiwon-Certified Taekwondo Academy for Kids, Teens & Adults"
+HERO_SUBTEXT: "Officially certified by Kukkiwon and USA Taekwondo — building focus, confidence, respect, self-control, and mental strength in a safe, structured, and inspiring environment."
+SHOW_PROOF_BAR: "false"
+STAR_RATING: "5.0"
+REVIEW_COUNT: "5"
+ABOUT_TEXT: "American Korean Taekwondo Team Center brought its Kukkiwon- and USA Taekwondo-certified curriculum to Bergenfield in 2025, expanding from its original Teaneck school founded in 2016. Known as the 'Home of National Champions' in the sparring division, the academy builds martial artists around five core values — focus, confidence, respect, self-control, and mental strength — in a safe, structured, and inspiring environment for every age."
+
+INSTRUCTOR_1_NAME: "Master James Koh"
+INSTRUCTOR_1_PHOTO: images/instructors/instructor-1/photo.jpg
+INSTRUCTOR_1_TITLE: "Founder & Head Master — 6th Dan Black Belt"
+INSTRUCTOR_1_BIO: "Master James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025. He's joined by a certified coaching staff including 4th Degree Black Belt Daria Kalyniuk (SafeSport-certified coach and USA Taekwondo licensed referee) and 3rd Dan Instructor Ethan."
+
+PROGRAM_1_NAME: "Little Tigers"
+PROGRAM_1_AGE_RANGE: "Ages 3–6"
+PROGRAM_1_DAYS: "Mon, Wed & Fri afternoons · Sat & Sun mornings"
+PROGRAM_1_SESSION_LEN: "35 min classes"
+PROGRAM_1_DESCRIPTION: "A fun, energetic introduction to Taekwondo for our youngest students — age-appropriate games and activities that build focus and self-control skills they'll carry into school and home."
+PROGRAM_1_AUDIENCE_KIDS: "1"
+
+PROGRAM_2_NAME: "Children"
+PROGRAM_2_AGE_RANGE: "Ages 6–10"
+PROGRAM_2_DAYS: "Mon–Fri afternoons · Sat & Sun mornings"
+PROGRAM_2_SESSION_LEN: "40 min classes"
+PROGRAM_2_DESCRIPTION: "Belt-ranked classes that build concentration, courtesy, respect, self-control, and perseverance — developing focus, confidence, and self-discipline through structured Taekwondo training."
+PROGRAM_2_AUDIENCE_KIDS: "1"
+
+PROGRAM_3_NAME: "Junior / Teen"
+PROGRAM_3_AGE_RANGE: "Ages 11–17"
+PROGRAM_3_DAYS: "Thursday evenings"
+PROGRAM_3_SESSION_LEN: "40 min classes"
+PROGRAM_3_DESCRIPTION: "Builds a strong moral foundation and physical fitness with a focus on self-image, resisting peer pressure, respect, athletic coordination, and goal-setting."
+PROGRAM_3_AUDIENCE_TEENS: "1"
+
+PROGRAM_4_NAME: "Adults"
+PROGRAM_4_AGE_RANGE: "Adults"
+PROGRAM_4_DAYS: "Mon, Fri & Sun"
+PROGRAM_4_SESSION_LEN: "40 min classes"
+PROGRAM_4_DESCRIPTION: "Stress relief and real fitness through Taekwondo — self-defense, flexibility, endurance, and strength training for adults of every experience level."
+PROGRAM_4_AUDIENCE_ADULTS: "1"
+
+PROGRAM_5_NAME: "Self-Defense"
+PROGRAM_5_AGE_RANGE: "Teens & Adults"
+PROGRAM_5_DAYS: "By appointment / seminar-based"
+PROGRAM_5_SESSION_LEN: "Seminar"
+PROGRAM_5_DESCRIPTION: "Comprehensive training covering situational awareness and threat recognition, escape strategies, and real physical techniques — because trained students are less likely to be targeted for attempted attacks."
+PROGRAM_5_AUDIENCE_TEENS: "1"
+PROGRAM_5_AUDIENCE_ADULTS: "1"
+
+TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+QUIZ_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+FINAL_CTA_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+BOOKING_CALENDAR_URL: "https://PLACEHOLDER-replace-before-build"
+
+PRIVACY_POLICY_URL: https://americantkd.com/privacy-policy
+
+CLASS_SCHEDULE_HTML: |
+  <table class="sched" role="table" aria-label="Weekly class schedule">
+    <colgroup><col style="width:24%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"><col style="width:10.85%"></colgroup>
+    <thead><tr><th scope="col">Program</th><th scope="col">Monday</th><th scope="col">Tuesday</th><th scope="col">Wednesday</th><th scope="col">Thursday</th><th scope="col">Friday</th><th scope="col">Saturday</th><th scope="col">Sunday</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>Little Tigers<br><small style="color:#64748b">Ages 3–6 &middot; 35 min</small></td>
+        <td><span class="time-slot kids">4:20–4:55 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">4:20–4:55 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">4:20–4:55 PM</span></td>
+        <td><span class="time-slot kids">9:00–10:00 AM</span></td>
+        <td><span class="time-slot kids">9:30–10:00 AM</span></td>
+      </tr>
+      <tr>
+        <td>Children<br><small style="color:#64748b">Ages 7–10 &middot; 40 min</small></td>
+        <td><span class="time-slot kids">5:00–6:25 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">5:45–7:10 PM</span></td>
+        <td><span class="time-slot kids">4:20–6:25 PM</span></td>
+        <td><span class="time-slot kids">5:00–5:40 PM</span></td>
+        <td><span class="time-slot kids">10:15–11:40 AM</span></td>
+        <td><span class="time-slot kids">10:15 AM–12:25 PM</span></td>
+      </tr>
+      <tr>
+        <td>Junior / Teen<br><small style="color:#64748b">Ages 11+ · Purple–Black &middot; 40 min</small></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot teens">5:00–5:40 &amp; 7:15–7:55 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+      </tr>
+      <tr>
+        <td>Adult / Teen<br><small style="color:#64748b">All belts &middot; 40 min</small></td>
+        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot adult">5:45–6:25 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot adult">11:00–11:40 AM</span></td>
+      </tr>
+      <tr>
+        <td>Family Class<br><small style="color:#64748b">All ages</small></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">6:30–7:10 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">9:30–10:10 AM</span></td>
+        <td><span class="time-empty">—</span></td>
+      </tr>
+      <tr>
+        <td>USAT Sparring Team<br><small style="color:#64748b">By invitation</small></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot comp">7:15–8:00 PM</span></td>
+        <td><span class="time-slot comp">6:35–7:35 PM</span></td>
+        <td><span class="time-slot comp">12:00–1:30 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="margin-top:12px;font-size:13px;color:#64748b">Schedule condensed by class type — exact time depends on your student's specific belt level. Call <a href="tel:+19083820565">(908) 382-0565</a> to confirm the right class for you or your child. Tuesday: school closed.</p>
