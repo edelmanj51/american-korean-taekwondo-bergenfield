@@ -25,9 +25,9 @@ HERO_IMAGE: images/hero/hero.jpg
 HERO_HEADLINE: "Home of National Champions."
 HERO_SUBHEADLINE: "Bergenfield's Kukkiwon-Certified Taekwondo Academy for Kids, Teens & Adults"
 HERO_SUBTEXT: "Officially certified by Kukkiwon and USA Taekwondo — building focus, confidence, respect, self-control, and mental strength in a safe, structured, and inspiring environment."
-SHOW_PROOF_BAR: "false"
+SHOW_PROOF_BAR: "true"
 STAR_RATING: "5.0"
-REVIEW_COUNT: "5"
+REVIEW_COUNT: "44"
 ABOUT_TEXT: "American Korean Taekwondo Team Center brought its Kukkiwon- and USA Taekwondo-certified curriculum to Bergenfield in 2025, expanding from its original Teaneck school founded in 2016. Known as the 'Home of National Champions' in the sparring division, the academy builds martial artists around five core values — focus, confidence, respect, self-control, and mental strength — in a safe, structured, and inspiring environment for every age."
 
 INSTRUCTOR_1_NAME: "Master James Koh"
@@ -36,7 +36,7 @@ INSTRUCTOR_1_TITLE: "Founder & Head Master — 6th Dan Black Belt"
 INSTRUCTOR_1_BIO: "Master James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025. He's joined by a certified coaching staff including 4th Degree Black Belt Daria Kalyniuk (SafeSport-certified coach and USA Taekwondo licensed referee) and 3rd Dan Instructor Ethan."
 
 PROGRAM_1_NAME: "Little Tigers"
-PROGRAM_1_AGE_RANGE: "Ages 3–6"
+PROGRAM_1_AGE_RANGE: "Ages 3–5"
 PROGRAM_1_DAYS: "Mon, Wed & Fri afternoons · Sat & Sun mornings"
 PROGRAM_1_SESSION_LEN: "35 min classes"
 PROGRAM_1_DESCRIPTION: "A fun, energetic introduction to Taekwondo for our youngest students — age-appropriate games and activities that build focus and self-control skills they'll carry into school and home."
@@ -51,14 +51,14 @@ PROGRAM_2_AUDIENCE_KIDS: "1"
 
 PROGRAM_3_NAME: "Junior / Teen"
 PROGRAM_3_AGE_RANGE: "Ages 11–17"
-PROGRAM_3_DAYS: "Thursday evenings"
+PROGRAM_3_DAYS: "Monday evenings (sparring)"
 PROGRAM_3_SESSION_LEN: "40 min classes"
 PROGRAM_3_DESCRIPTION: "Builds a strong moral foundation and physical fitness with a focus on self-image, resisting peer pressure, respect, athletic coordination, and goal-setting."
 PROGRAM_3_AUDIENCE_TEENS: "1"
 
 PROGRAM_4_NAME: "Adults"
 PROGRAM_4_AGE_RANGE: "Adults"
-PROGRAM_4_DAYS: "Mon, Fri & Sun"
+PROGRAM_4_DAYS: "Fri & Sun"
 PROGRAM_4_SESSION_LEN: "40 min classes"
 PROGRAM_4_DESCRIPTION: "Stress relief and real fitness through Taekwondo — self-defense, flexibility, endurance, and strength training for adults of every experience level."
 PROGRAM_4_AUDIENCE_ADULTS: "1"
@@ -70,6 +70,30 @@ PROGRAM_5_SESSION_LEN: "Seminar"
 PROGRAM_5_DESCRIPTION: "Comprehensive training covering situational awareness and threat recognition, escape strategies, and real physical techniques — because trained students are less likely to be targeted for attempted attacks."
 PROGRAM_5_AUDIENCE_TEENS: "1"
 PROGRAM_5_AUDIENCE_ADULTS: "1"
+
+REVIEWER_1_NAME: "Jason Ainspan"
+REVIEWER_1_DATE: "8 months ago"
+REVIEWER_1_TEXT: "We're so happy this Taekwondo school opened a second location! It's close, convenient, and gives our family so much more flexibility with class times. The same amazing instruction carries over here — Master James and the team are just as patient, encouraging, and professional. My son continues to build confidence and discipline with every class. I also really appreciate the play area for siblings — it makes it so much easier to bring my younger kids along. The new space is clean, welcoming, and thoughtfully set up. We couldn't ask for a better experience!"
+
+REVIEWER_2_NAME: "Herald Aguilar"
+REVIEWER_2_DATE: "8 months ago"
+REVIEWER_2_TEXT: "This is a very great school — it's one of the best schools that we recommend. The coach and the instructors are very nice. We are treated like family, especially my son."
+
+REVIEWER_3_NAME: "Jaycee Aguilar"
+REVIEWER_3_DATE: "8 months ago"
+REVIEWER_3_TEXT: "Before, my son didn't want to do Taekwondo, but when he started at this school he enjoyed every single day of his class. Now my son is part of the AKT Team — thanks to Master James, Instructor Daria, and Instructor Ethan."
+
+REVIEWER_4_NAME: "Nei Kim"
+REVIEWER_4_DATE: "8 months ago"
+REVIEWER_4_TEXT: "We're so thankful for Master James and Daria. Their positive energy and care make every class special. My daughter always looks forward to Taekwondo! Highly recommend this school to any family looking for a place where kids can grow strong in both body and character!"
+
+REVIEWER_5_NAME: "Lanfang Dong"
+REVIEWER_5_DATE: "8 months ago"
+REVIEWER_5_TEXT: "This is the best place to learn Taekwondo. The Master and Instructors are all very nice and encouraging to all the students."
+
+REVIEWER_6_NAME: "Liubov Smolyanova"
+REVIEWER_6_DATE: "8 months ago"
+REVIEWER_6_TEXT: "Our daughter goes there and absolutely loves it! The instructor Daria and Master James are kind, professional, and inspiring. We're very grateful for the confidence and discipline she's building. Wonderful school!"
 
 TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
 STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
@@ -85,38 +109,38 @@ CLASS_SCHEDULE_HTML: |
     <thead><tr><th scope="col">Program</th><th scope="col">Monday</th><th scope="col">Tuesday</th><th scope="col">Wednesday</th><th scope="col">Thursday</th><th scope="col">Friday</th><th scope="col">Saturday</th><th scope="col">Sunday</th></tr></thead>
     <tbody>
       <tr>
-        <td>Little Tigers<br><small style="color:#64748b">Ages 3–6 &middot; 35 min</small></td>
+        <td>Little Tigers<br><small style="color:#64748b">Ages 3–5 &middot; 35 min</small></td>
         <td><span class="time-slot kids">4:20–4:55 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot kids">4:20–4:55 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-slot kids">4:20–4:55 PM</span></td>
-        <td><span class="time-slot kids">9:00–10:00 AM</span></td>
+        <td><span class="time-slot kids">9:00–9:25 AM</span></td>
         <td><span class="time-slot kids">9:30–10:00 AM</span></td>
       </tr>
       <tr>
-        <td>Children<br><small style="color:#64748b">Ages 7–10 &middot; 40 min</small></td>
-        <td><span class="time-slot kids">5:00–6:25 PM</span></td>
+        <td>Children / Junior<br><small style="color:#64748b">Ages 6–10 &middot; 40 min</small></td>
+        <td><span class="time-slot kids">5:45–6:25 PM</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot kids">5:45–7:10 PM</span></td>
-        <td><span class="time-slot kids">4:20–6:25 PM</span></td>
+        <td><span class="time-slot kids">5:45–6:25 PM</span></td>
+        <td><span class="time-slot kids">4:20–4:55 PM</span></td>
         <td><span class="time-slot kids">5:00–5:40 PM</span></td>
-        <td><span class="time-slot kids">10:15–11:40 AM</span></td>
-        <td><span class="time-slot kids">10:15 AM–12:25 PM</span></td>
+        <td><span class="time-slot kids">10:15–10:55 AM</span></td>
+        <td><span class="time-slot kids">10:15–10:55 AM</span></td>
       </tr>
       <tr>
-        <td>Junior / Teen<br><small style="color:#64748b">Ages 11+ · Purple–Black &middot; 40 min</small></td>
+        <td>Junior / Teen<br><small style="color:#64748b">All ages &middot; Sparring &middot; 40 min</small></td>
+        <td><span class="time-slot teens">6:30–7:10 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot teens">5:00–5:40 &amp; 7:15–7:55 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
       </tr>
       <tr>
         <td>Adult / Teen<br><small style="color:#64748b">All belts &middot; 40 min</small></td>
-        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
+        <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
@@ -125,7 +149,7 @@ CLASS_SCHEDULE_HTML: |
         <td><span class="time-slot adult">11:00–11:40 AM</span></td>
       </tr>
       <tr>
-        <td>Family Class<br><small style="color:#64748b">All ages</small></td>
+        <td>Family Class<br><small style="color:#64748b">Teen / Adult</small></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
@@ -134,16 +158,6 @@ CLASS_SCHEDULE_HTML: |
         <td><span class="time-slot kids">9:30–10:10 AM</span></td>
         <td><span class="time-empty">—</span></td>
       </tr>
-      <tr>
-        <td>USAT Sparring Team<br><small style="color:#64748b">By invitation</small></td>
-        <td><span class="time-empty">—</span></td>
-        <td><span class="time-empty">—</span></td>
-        <td><span class="time-empty">—</span></td>
-        <td><span class="time-slot comp">7:15–8:00 PM</span></td>
-        <td><span class="time-slot comp">6:35–7:35 PM</span></td>
-        <td><span class="time-slot comp">12:00–1:30 PM</span></td>
-        <td><span class="time-empty">—</span></td>
-      </tr>
     </tbody>
   </table>
-  <p style="margin-top:12px;font-size:13px;color:#64748b">Schedule condensed by class type — exact time depends on your student's specific belt level. Call <a href="tel:+19083820565">(908) 382-0565</a> to confirm the right class for you or your child. Tuesday: school closed.</p>
+  <p style="margin-top:12px;font-size:13px;color:#64748b">Call <a href="tel:+19083820565">(908) 382-0565</a> to confirm the right class for you or your child. Tuesday: school closed.</p>
