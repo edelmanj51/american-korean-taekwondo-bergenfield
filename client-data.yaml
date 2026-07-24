@@ -95,11 +95,11 @@ REVIEWER_6_NAME: "Liubov Smolyanova"
 REVIEWER_6_DATE: "8 months ago"
 REVIEWER_6_TEXT: "Our daughter goes there and absolutely loves it! The instructor Daria and Master James are kind, professional, and inspiring. We're very grateful for the confidence and discipline she's building. Wonderful school!"
 
-TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-QUIZ_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-FINAL_CTA_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
-BOOKING_CALENDAR_URL: "https://PLACEHOLDER-replace-before-build"
+TRIAL_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/3wi1d6ivC1Vk1Nv4Wxtk/webhook-trigger/RTr2oU4dwhpZYXTHzEG4"
+STARTER_KIT_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/3wi1d6ivC1Vk1Nv4Wxtk/webhook-trigger/RTr2oU4dwhpZYXTHzEG4"
+QUIZ_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/3wi1d6ivC1Vk1Nv4Wxtk/webhook-trigger/RTr2oU4dwhpZYXTHzEG4"
+FINAL_CTA_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/3wi1d6ivC1Vk1Nv4Wxtk/webhook-trigger/RTr2oU4dwhpZYXTHzEG4"
+BOOKING_CALENDAR_URL: "https://sites.leadconnectorhq.com/preview/dKqp4G35YzGnW2opdkzz"
 
 PRIVACY_POLICY_URL: https://americantkd.com/privacy-policy
 
