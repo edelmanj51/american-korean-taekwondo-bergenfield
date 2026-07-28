@@ -19,8 +19,9 @@ YEAR_FOUNDED: ""
 PRIMARY_COLOR: "#C8102E"
 SECONDARY_COLOR: "#1B1F3B"
 LOGO_IMAGE: brand_assets/logo.png
-FACEBOOK_URL: "https://www.facebook.com/p/American-Korean-Taekwondo-Team-Center-61579233785792/"
-INSTAGRAM_URL: ""
+FACEBOOK_URL: "https://www.facebook.com/people/American-Korean-Taekwondo-Team-Center/61579233785792/"
+INSTAGRAM_URL: "https://www.instagram.com/teamcenterakt/"
+TIKTOK_URL: "https://www.tiktok.com/@teamcenterakt"
 HERO_IMAGE: images/hero/hero.jpg
 HERO_HEADLINE: "Home of National Champions."
 HERO_SUBHEADLINE: "Bergenfield's Kukkiwon-Certified Taekwondo Academy for Kids, Teens & Adults"
@@ -30,10 +31,19 @@ STAR_RATING: "5.0"
 REVIEW_COUNT: "44"
 ABOUT_TEXT: "American Korean Taekwondo Team Center brought its Kukkiwon- and USA Taekwondo-certified curriculum to Bergenfield in 2025, expanding from its original Teaneck school founded in 2016. Known as the 'Home of National Champions' in the sparring division, the academy builds martial artists around five core values — focus, confidence, respect, self-control, and mental strength — in a safe, structured, and inspiring environment for every age."
 
-INSTRUCTOR_1_NAME: "Master James Koh"
+INSTRUCTOR_1_NAME: "Grandmaster James Koh"
 INSTRUCTOR_1_PHOTO: images/instructors/instructor-1/photo.jpg
 INSTRUCTOR_1_TITLE: "Founder & Head Master — 6th Dan Black Belt"
-INSTRUCTOR_1_BIO: "Master James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025. He's joined by a certified coaching staff including 4th Degree Black Belt Daria Kalyniuk (SafeSport-certified coach and USA Taekwondo licensed referee) and 3rd Dan Instructor Ethan."
+INSTRUCTOR_1_BIO: "Grandmaster James Koh is a Kukkiwon International Master Certified 6th Dan Black Belt with more than 20 years of teaching experience and 30+ years of training. A former elite competitor with 15 years of sparring experience, he holds USA Taekwondo Gold, South Korea National Gold, and International Gold medals. He founded American Korean Taekwondo in Teaneck in 2016 and expanded to Bergenfield in 2025."
+
+INSTRUCTOR_2_NAME: "Master Daria Kalyniuk"
+INSTRUCTOR_2_PHOTO: images/instructors/instructor-2/daria-kalyniuk.jpg
+INSTRUCTOR_2_TITLE: "Instructor — 4th Degree Black Belt"
+INSTRUCTOR_2_BIO: "Master Daria Kalyniuk is a 4th Degree WTF Kukkiwon Black Belt and ITF 1st Degree Black Belt with more than 10 years of training experience. She's a SafeSport-certified coach and USA Taekwondo licensed coach and referee, and earned a national title at the Ukrainian Championships. Master Daria brings patient, hands-on instruction to every class, especially our youngest Little Tigers."
+
+INSTRUCTOR_3_NAME: "Instructor Ethan"
+INSTRUCTOR_3_TITLE: "Instructor — 3rd Dan Black Belt"
+INSTRUCTOR_3_BIO: "Instructor Ethan is a Kukkiwon 3rd Dan Black Belt with 6 years of teaching experience, having competed in both New Jersey and New York State Championships. He brings energy and discipline to every class he teaches."
 
 PROGRAM_1_NAME: "Little Tigers"
 PROGRAM_1_AGE_RANGE: "Ages 3–5"
@@ -134,7 +144,7 @@ CLASS_SCHEDULE_HTML: |
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot teens">5:45–6:25 PM</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
       </tr>
@@ -143,9 +153,9 @@ CLASS_SCHEDULE_HTML: |
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
         <td><span class="time-empty">—</span></td>
-        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot adult">6:30–7:10 PM</span></td>
         <td><span class="time-slot adult">5:45–6:25 PM</span></td>
-        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot adult">9:30–10:10 AM</span></td>
         <td><span class="time-slot adult">11:00–11:40 AM</span></td>
       </tr>
       <tr>
